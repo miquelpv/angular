@@ -41,3 +41,20 @@ __screenshots__/
 # System files
 .DS_Store
 Thumbs.db
+
+
+
+
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.production
+
+# Temporary backups
+*.bak
+*.tmp
+
+# Compiled CSS from SCSS (if auto-generated)
+*.css.map
